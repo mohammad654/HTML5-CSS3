@@ -1,0 +1,47 @@
+
+
+             CSS3
+            white-space: nowrap;
+            word-break: normal;
+            overflow: scroll;
+            resize: both;
+            align-items: ;
+            justify-content: ;
+            flex-grow: ;
+            flex-shrink: ;
+            flex-basis: ;
+            column-count: 3;
+            column-gap: 20px;
+            column-span: ;
+            column-rule: #e74c3c solid 2px;
+            border-style: solid dashed double groove;
+            direction: rtl;
+            word-spacing: 3px;
+            letter-spacing: 4px;
+           add    : .. text-overflow: ellipsis;  overflow: hidden;
+           remove :  ..   text-overflow:clip;
+
+          transform : perspective  perspective-origin transform-style Scale backface-visibility
+                     Skew  Translate  Rotate  Matrix
+
+          transition : Property Duration Timing function    Delay
+
+
+          Animation  : Name   Duration Iteration-count  Direction  Delay   Fill Mode  Play State Timing Function
+
+          Selectors : Checked, Enabled, Disabled, Empty, Not, Last-Child, First-Of-Type, Only-Child, Only-Of-Type,
+                    Selection, Nth-Child, Nth-Of-Type
+                    * ^ ~ $
+
+
+                    ??
+                    Font Face
+
+
+
+
+
+
+
+
+
