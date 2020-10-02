@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fa7d42e-8ac3-4f8e-9188-7bc8cb15f419" name="Default Changelist" comment="" />
+    <list default="true" id="5fa7d42e-8ac3-4f8e-9188-7bc8cb15f419" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/begin/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/begin/img/corporate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/begin/img/crocus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/begin/img/flowerbkgd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/begin/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/begin/img/other.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/begin/img/wedding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/begin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_01/tablet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/begin/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/begin/img/corporate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/begin/img/crocus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/begin/img/flowerbkgd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/begin/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/begin/img/other.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/begin/img/wedding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/begin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/end/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/end/img/corporate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/end/img/crocus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/end/img/flowerbkgd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/end/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/end/img/other.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/end/img/wedding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_02/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/begin/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/begin/img/corporate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/begin/img/crocus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/begin/img/flowerbkgd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/begin/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/begin/img/other.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/begin/img/wedding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/begin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/end/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/end/img/corporate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/end/img/crocus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/end/img/flowerbkgd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/end/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/end/img/other.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/end/img/wedding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_03/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/begin/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/begin/img/corporate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/begin/img/crocus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/begin/img/flowerbkgd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/begin/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/begin/img/other.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/begin/img/wedding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/begin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/begin/starting css.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/end/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/end/img/corporate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/end/img/crocus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/end/img/flowerbkgd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/end/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/end/img/other.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/end/img/wedding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/end/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-CSS/Ex_Files_Responsive_Layout_2/Ex_Files_Responsive_Layout_2/Exercise Files/04_04/end/starting css.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-CSS/try.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-CSS/try.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +89,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GitHub" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YwhKS9UQnFdhzUeXbVxqnWi7lp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2-Bootstrap" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -125,7 +191,9 @@
       <workItem from="1593286872085" duration="1019000" />
       <workItem from="1593347050523" duration="23000" />
       <workItem from="1594047642783" duration="16000" />
-      <workItem from="1596474446395" duration="1294000" />
+      <workItem from="1596474446395" duration="1702000" />
+      <workItem from="1596536460534" duration="3554000" />
+      <workItem from="1596545238763" duration="599000" />
     </task>
     <servers />
   </component>
